@@ -1,3 +1,5 @@
+<img width="1912" height="1017" alt="image" src="https://github.com/user-attachments/assets/a2aa71cf-ad60-45d1-b859-6e9a2f56f9bf" />
+
 # JASS English → Mizo Translator v1.1
 
 An offline English → Mizo translation-memory explorer built around the
